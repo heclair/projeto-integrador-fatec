@@ -48,20 +48,6 @@ header, .navbar{
     background-color: #354A53;
 }
 
-/*TELA MODULO*/
-
-#row-verde-mod{
-    background-color: #354A53;
-    margin: 10px;
-    
-}
-
-/*TELA MODULO*/
-
-#cont-verde{
-    background-color: #354A53; 
-}
-
 #titulo-scrum{
     font-weight: 400;
     font-size: 36px;
@@ -90,17 +76,6 @@ header, .navbar{
     font-size: 15px;
 
 }
-
-/*TELA MODULO*/
-
-#cardlimod{
-    font-family: 'Roboto', sans-serif;
-    color:black ;
-    font-size: 18px;
-
-}
-
-/*TELA MODULO*/
 
 #card-text{
     font-family: 'Roboto', sans-serif;
@@ -152,12 +127,33 @@ header, .navbar{
     width: 100%;
 }
 
+#lista-conteudo{
+    align-items: stretch;
+}
+
+/*--------------------------------TELA MODULO--------------------------------------------------------------------*/
+
+#cardlimod{
+    font-family: 'Roboto', sans-serif;
+    color:black ;
+    font-size: 18px;
+
+}
+
+#cont-verde{
+    background-color: #354A53; 
+}
+
+#row-verde-mod{
+    background-color: #354A53;
+    margin: 10px;
+    
+}
+
 #card-modtela{
     width: 100%;
     height: 100%;
     align-items:stretch;
 }
 
-#lista-conteudo{
-    align-items: stretch;
-}
+/*--------------------------------TELA MODULO--------------------------------------------------------------------*/
