@@ -48,10 +48,6 @@ header, .navbar{
     background-color: #354A53;
 }
 
-#cont-verde{
-    background-color: #354A53; 
-}
-
 #titulo-scrum{
     font-weight: 400;
     font-size: 36px;
@@ -130,3 +126,67 @@ header, .navbar{
 #perrydevsico{
     width: 100%;
 }
+
+#lista-conteudo{
+    align-items: stretch;
+}
+
+/*--------------------------------TELA MODULO--------------------------------------------------------------------*/
+
+/*CARD*/
+
+#cardlimod{
+    font-family: 'Roboto', sans-serif;
+    color:black ;
+    font-size: 18px;
+
+}
+
+#cont-verde{
+    background-color: #354A53; 
+}
+
+#row-verde-mod{
+    background-color: #354A53;
+    margin: 10px;
+    
+}
+
+#card-modtela{
+    width: 100%;
+    height: 100%;
+    align-items:stretch;
+}
+
+/*BOTÃO*/
+
+#verticalbtn{
+    width: 100%;
+    height: 100%;
+    
+}
+
+#btnmodulo{
+    background-color: #FFFFFF;
+    border: 1px solid black;
+    font-family: 'Roboto', sans-serif;
+    color: black;
+}
+
+#conteudomod{
+    background-color: #FFFFFF;
+    border-radius: 10px solid black;
+    padding: 4px;
+    height: 100%;
+
+}
+
+#listaconteudo{
+  
+    display: inline-block;
+    margin: 0 10px;
+    white-space:wrap; 
+
+  
+}
+/*--------------------------------TELA MODULO--------------------------------------------------------------------*/
